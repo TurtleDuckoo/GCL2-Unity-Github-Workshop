@@ -10,6 +10,7 @@ public class PlayerController : MonoBehaviour
 >>>>>>> ca6dc881ee6b9b65df5cc14ac000cfaaf77deb4e
     public float jumpForce = 8.0f;
 
+    public float crouchSpeed = 5.0f;
     private Rigidbody2D rb;
 
     private void Start()
