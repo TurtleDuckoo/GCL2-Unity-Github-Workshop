@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 4310333636750621484}
   - component: {fileID: 3948991912779047970}
   m_Layer: 0
-  m_Name: Player
+  m_Name: Player 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -105,11 +105,7 @@ Rigidbody2D:
   m_Mass: 1
   m_LinearDamping: 0
   m_AngularDamping: 0.05
-<<<<<<< HEAD
-  m_GravityScale: 5
-=======
-  m_GravityScale: 60
->>>>>>> 4a4ea7bcb256023a552911c3de3cd6dce7d98c07
+  m_GravityScale: 20
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
