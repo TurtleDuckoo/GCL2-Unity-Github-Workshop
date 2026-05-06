@@ -3,11 +3,11 @@ using UnityEngine;
 public class PlayerController : MonoBehaviour
 {
     [Header("Movement")]
-<<<<<<< HEAD
+// HEAD
     public float moveSpeed = 10.0f;   // <-- Activity 2 prefab conflict target (serialised in prefab)
-=======
+
     public float moveSpeed = 10.0f;   // <-- Activity 2 prefab conflict target (serialised in prefab)
->>>>>>> ca6dc881ee6b9b65df5cc14ac000cfaaf77deb4e
+// ca6dc881ee6b9b65df5cc14ac000cfaaf77deb4e
     public float jumpForce = 8.0f;
 
     private Rigidbody2D rb;
