@@ -4,7 +4,9 @@ public class PlayerController : MonoBehaviour
 {
     [Header("Movement")]
 
+
     public float moveSpeed = 10.0f;   // <-- Activity 2 prefab conflict target (serialised in prefab)
+
 
     public float jumpForce = 8.0f;
 
